@@ -1,4 +1,4 @@
-# Kind Labs's Klicky Mod
+# Kind Labs's Klicky Carriage
 
 ![FrontView](Images/Front.PNG)
 
